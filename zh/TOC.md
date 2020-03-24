@@ -13,6 +13,7 @@
 + 部署
   - [集群环境要求](prerequisites.md)
   - [部署 TiDB Operator](deploy-tidb-operator.md)
+  - [TEST Operator 部署](test/tidb-operator-deploy.md)
   - [标准 Kubernetes 上的 TiDB 集群](deploy-on-general-kubernetes.md)
   - [AWS EKS 上的 TiDB 集群](deploy-on-aws-eks.md)
   - [GCP 上的 TiDB 集群](deploy-on-gcp-gke.md)

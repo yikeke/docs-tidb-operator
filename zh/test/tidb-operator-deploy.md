@@ -4,11 +4,9 @@ summary: 了解如何在 Kubernetes 上部署 TiDB Operator
 category: how-to
 ---
 
-# 在 Kubernetes 上部署 TiDB Operator
+# 在 Kubernetes 上部署 TiDB Operator For TEST
 
 本文介绍如何在 Kubernetes 上部署 TiDB Operator。
-
-[TEST] 你也可以[查看另一个文档来部署 TiDB Operator](test/tidb-operator-deploy.md)。
 
 ## 准备环境
 
