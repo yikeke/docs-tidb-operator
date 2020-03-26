@@ -23,6 +23,7 @@ TiDB Operator 提供了多种方式来部署 Kubernetes 上的 TiDB 集群：
 
 在任何环境上部署前，都可以参考 [TiDB 集群配置](configure-a-tidb-cluster.md)来自定义 TiDB 配置。
 
+部署完成后，你可以参考下面的文档进行 Kubernetes 上 TiDB 集群的使用和运维：
 
 + [部署 TiDB 集群](deploy-on-general-kubernetes.md)
 + [访问 TiDB 集群](access-tidb.md)
